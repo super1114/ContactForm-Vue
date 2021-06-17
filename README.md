@@ -1,7 +1,4 @@
 <<<<<<< HEAD
-# vue-step-wizard
-
-![alt text](https://github.com/tushargugnani/vue-step-wizard/blob/master/public/Vue-Step-Wizard.gif?raw=true)
 
 
 ## Documentation
@@ -47,7 +44,3 @@ contact form for getting jobs.
 ![alt text](./Screenshot_3.jpg 'App Screenshot')
 ![alt text](./Screenshot_4.jpg 'App Screenshot')
 
-##run server <br />
-npm install<br/ >
-npm run serve
->>>>>>> 56fa22d197b7c4afcf64602f3cb141648a3dfb06
