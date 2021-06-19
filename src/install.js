@@ -21,4 +21,4 @@ export {
     FormWizard,
     TabContent,
     ValidationHelper
-  }
+}

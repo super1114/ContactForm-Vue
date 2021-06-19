@@ -9,6 +9,7 @@ import vueCountryRegionSelect from 'vue-country-region-select'
 import TextareaAutosize from 'vue-textarea-autosize'
 import vmodal from 'vue-js-modal'
 
+
 Vue.use(vmodal)
 Vue.use(TextareaAutosize)
 Vue.use(vueCountryRegionSelect)
@@ -24,7 +25,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 Vue.config.productionTip = false
 
 new Vue({
-  el: "#app",
-  store: Store,
-  render: h => h(App),
+    el: "#app",
+    store: Store,
+    render: h => h(App),
 }).$mount('#app')
